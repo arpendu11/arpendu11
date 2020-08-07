@@ -1,7 +1,7 @@
 ### Hi geeks !! 👋
 ---------------------
 
-I am Arpendu Kumar Garai. I am a Full Stack developer 🚀 from India. I have been part of various end-to-end product and module development related to Big Data Analytics, Security as well as UI components. I am an experienced developer skilled in Java, Microservices, Full Stack Development, Big Data, Machine learning, MERN, Javascript and its frameworks. Besides coding and programming, I am a big foodie, love cooking and love to travel. I have a knack for writing too and write on my personal blog- [arpendu's blog](https://arpendu.hashnode.dev/)
+I am Arpendu Kumar Garai. I am a Full Stack developer 🚀 from India. I have been part of various end-to-end product and module development related to Big Data Analytics, Security as well as UI components. I am an experienced developer skilled in Java, Microservices, Full Stack Development, Big Data, Machine learning, MERN, Javascript and its frameworks. Besides coding and programming, I am a big foodie, love cooking and love to travel. I have a knack for writing too and write on my personal blog- <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hashnode.svg"></code>[arpendu's blog](https://arpendu.hashnode.dev/)
 
 **Talking about Personal Stuffs:**
 
@@ -11,6 +11,7 @@ I am Arpendu Kumar Garai. I am a Full Stack developer 🚀 from India. I have be
 - 💬 Ask me about anything, I am happy to help.
 - ⚡ Fun fact: I love trying out different cuisines! 😃
 - 📫 How to reach me:
+
 <a href="mailto:arpendug3@gmail.com">
   <img align="left" alt="Arpendu's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
 </a>
@@ -23,6 +24,8 @@ I am Arpendu Kumar Garai. I am a Full Stack developer 🚀 from India. I have be
 <a href="https://arpendu.hashnode.dev/">
   <img align="left" alt="arpendu's blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hashnode.svg" />
 </a>
+
+<br />
 
 **Languages and Tools:**  
 
