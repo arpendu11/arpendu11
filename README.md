@@ -50,3 +50,7 @@ I am Arpendu Kumar Garai. I am a Full Stack developer 🚀 from India. I have be
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <!--![Arpendu's github stats](https://github-readme-stats.vercel.app/api?username=arpendu11&show_icons=true&hide_border=true)-->
+
+## Hashnode Blog Post
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
