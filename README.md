@@ -53,4 +53,9 @@ I am Arpendu Kumar Garai. I am a Full Stack developer 🚀 from India. I have be
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Caching strategies for REST API in Java using Spring Boot](https://arpendu.hashnode.dev/caching-strategies-for-rest-api-in-java-using-spring-boot-ckd2qt2np00w2scs12fs1db8a)
+- [A simple Chatbot using Dialogflow, NodeJs and Websocket](https://arpendu.hashnode.dev/a-simple-chatbot-using-dialogflow-nodejs-and-websocket-ckd0b0ojc007d7rs1hhpxddco)
+- [Various caching strategies For REST API in NodeJs](https://arpendu.hashnode.dev/various-caching-strategies-for-rest-api-in-nodejs-ckcq3mx6a004vkxs1ftzw6yr8)
+- [Distributed Consensus using Leader Election Algorithm](https://arpendu.hashnode.dev/distributed-consensus-using-leader-election-algorithm-ckcoq8wj6005ieps1114w298y)
+- [8. Infrastructure-as-a-code using Terraform](https://arpendu.hashnode.dev/8-infrastructure-as-a-code-using-terraform-ckcinvc7r008fxas18ljc4zyd)
 <!-- HASHNODE:END -->
