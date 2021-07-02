@@ -54,6 +54,7 @@ I am Arpendu Kumar Garai. I am a Full Stack developer 🚀 from India. I have be
 
 ## Blog Post
 <!-- HASHNODE:START -->
+- [Node.js Application Monitoring with Prometheus and Grafana](https://stackabuse.com/nodejs-application-monitoring-with-prometheus-and-grafana)
 - [Spring Security: In-Memory Invalidation of JWT Tokens During User Logout](https://stackabuse.com/spring-security-in-memory-invalidation-of-jwt-token-during-user-logout)
 - [Caching strategies for REST API in Java using Spring Boot](https://arpendu.hashnode.dev/caching-strategies-for-rest-api-in-java-using-spring-boot-ckd2qt2np00w2scs12fs1db8a)
 - [A simple Chatbot using Dialogflow, NodeJs and Websocket](https://arpendu.hashnode.dev/a-simple-chatbot-using-dialogflow-nodejs-and-websocket-ckd0b0ojc007d7rs1hhpxddco)
