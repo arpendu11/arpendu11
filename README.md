@@ -54,6 +54,7 @@ I am Arpendu Kumar Garai. I am a Full Stack developer 🚀 from India. I have be
 
 ## Blog Post
 <!-- HASHNODE:START -->
+- [Guide to Quartz with Spring Boot - Job Scheduling and Automation](https://stackabuse.com/guide-to-quartz-with-spring-boot-job-scheduling-and-automation)
 - [Spring Boot: Guide to RestTemplate](https://stackabuse.com/spring-boot-guide-to-resttemplate)
 - [Node.js Application Monitoring with Prometheus and Grafana](https://stackabuse.com/nodejs-application-monitoring-with-prometheus-and-grafana)
 - [Spring Security: In-Memory Invalidation of JWT Tokens During User Logout](https://stackabuse.com/spring-security-in-memory-invalidation-of-jwt-token-during-user-logout)
@@ -61,5 +62,10 @@ I am Arpendu Kumar Garai. I am a Full Stack developer 🚀 from India. I have be
 - [A simple Chatbot using Dialogflow, NodeJs and Websocket](https://arpendu.hashnode.dev/a-simple-chatbot-using-dialogflow-nodejs-and-websocket-ckd0b0ojc007d7rs1hhpxddco)
 - [Various caching strategies For REST API in NodeJs](https://arpendu.hashnode.dev/various-caching-strategies-for-rest-api-in-nodejs-ckcq3mx6a004vkxs1ftzw6yr8)
 - [Distributed Consensus using Leader Election Algorithm](https://arpendu.hashnode.dev/distributed-consensus-using-leader-election-algorithm-ckcoq8wj6005ieps1114w298y)
-- [8. Infrastructure-as-a-code using Terraform](https://arpendu.hashnode.dev/8-infrastructure-as-a-code-using-terraform-ckcinvc7r008fxas18ljc4zyd)
+- [Infrastructure-as-a-code using Terraform](https://arpendu.hashnode.dev/8-infrastructure-as-a-code-using-terraform-ckcinvc7r008fxas18ljc4zyd)
+- [Quarkus: yet another framework like Spring Boot](https://arpendu.hashnode.dev/2-quarkus-yet-another-framework-like-spring-boot-ckbza8m2a000lgps17p476n3r)
+- [Reactive Stream messaging in Java using Quarkus](https://arpendu.hashnode.dev/3-reactive-stream-messaging-in-java-using-quarkus-ckc269cqu00g091s1el5pgjdn)
+- [Spark SQL Structured Streaming with Kafka](https://arpendu.hashnode.dev/4-spark-sql-structured-streaming-with-kafka-ckc7aez4900777is1ekl66p9m)
+- [Graph like data using Neo4j Graph Database](https://arpendu.hashnode.dev/5-graph-like-data-using-neo4j-graph-database-ckc7ulc9u001xups11tud2rqj)
+- [Indexed Full-Text searching made easy](https://arpendu.hashnode.dev/indexed-full-text-searching-made-easy-ck9sq2w3j013k6es14f9jlns5)
 <!-- HASHNODE:END -->
