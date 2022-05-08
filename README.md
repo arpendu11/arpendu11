@@ -54,6 +54,7 @@ I am Arpendu Kumar Garai. I am a Full Stack developer 🚀 from India. I have be
 
 ## Blog Post
 <!-- HASHNODE:START -->
+- [Reactive Architecture with Spring Boot](https://reflectoring.io/reactive-architecture-with-spring-boot/)
 - [Getting Started with Spring WebFlux](https://reflectoring.io/getting-started-with-spring-webflux/)
 - [Asynchronous Pub/Sub Messaging in Java with NATS JetStream](https://stackabuse.com/asynchronous-pubsub-messaging-in-java-with-nats-jetstream/)
 - [Guide to Quartz with Spring Boot - Job Scheduling and Automation](https://stackabuse.com/guide-to-quartz-with-spring-boot-job-scheduling-and-automation)
