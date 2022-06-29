@@ -1,7 +1,7 @@
 ### Hi geeks !! 👋
 ---------------------
 
-I am Arpendu Kumar Garai. I am a Full Stack developer 🚀 from India. I have been part of various end-to-end product and module development related to Big Data Analytics, Security as well as UI components. I am an experienced developer skilled in Java, Microservices, Full Stack Development, Big Data, Machine learning, MERN, Javascript and its frameworks. Besides coding and programming, I am a big foodie, love cooking and love to travel. I have a knack for writing too and write on my personal blog- <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hashnode.svg"></code>[arpendu's blog](https://arpendu.hashnode.dev/)/[StackAbuse blogs](https://stackabuse.com/author/arpendu/)/[Reflectoring.io blogs](https://reflectoring.io/authors/arpendu/)
+I am a Full Stack developer 🚀 from India. I have been part of various end-to-end product and module development related to Big Data Analytics, Security as well as UI components. I am an experienced developer skilled in Java, Microservices, Full Stack Development, Big Data, Machine learning, MERN, Javascript and its frameworks. Besides coding and programming, I am a big foodie, love cooking and love to travel. I have a knack for writing too and write on my personal blog- <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hashnode.svg"></code>[arpendu's blog](https://arpendu.hashnode.dev/)/[StackAbuse blogs](https://stackabuse.com/author/arpendu/)/[Reflectoring.io blogs](https://reflectoring.io/authors/arpendu/)
 
 **Talking about Personal Stuffs:**
 
