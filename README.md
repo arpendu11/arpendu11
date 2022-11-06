@@ -69,6 +69,7 @@ I am a Full Stack developer 🚀 from India. I have been part of various end-to-
 
 ## Blog Post
 <!-- HASHNODE:START -->
+- [Convert YAML Array into Java List with SnakeYAML](https://stackabuse.com/convert-yaml-array-into-java-list-with-snakeyaml/)
 - [One-Stop Guide to Mapping with MapStruct](https://reflectoring.io/java-mapping-with-mapstruct/)
 - [Reactive Architecture with Spring Boot](https://reflectoring.io/reactive-architecture-with-spring-boot/)
 - [Getting Started with Spring WebFlux](https://reflectoring.io/getting-started-with-spring-webflux/)
