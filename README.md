@@ -69,6 +69,7 @@ I am a Full Stack developer 🚀 from India. I have been part of various end-to-
 
 ## Blog Post
 <!-- HASHNODE:START -->
+- [Guide to Simple Email Service (AWS SES) with Spring Boot and Spring Cloud](https://stackabuse.com/guide-to-simple-email-service-aws-ses-with-spring-boot-and-spring-cloud/)
 - [Convert YAML Array into Java List with SnakeYAML](https://stackabuse.com/convert-yaml-array-into-java-list-with-snakeyaml/)
 - [One-Stop Guide to Mapping with MapStruct](https://reflectoring.io/java-mapping-with-mapstruct/)
 - [Reactive Architecture with Spring Boot](https://reflectoring.io/reactive-architecture-with-spring-boot/)
