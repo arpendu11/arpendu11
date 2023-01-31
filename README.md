@@ -63,10 +63,6 @@ I am a Full Stack developer 🚀 from India. I have been part of various end-to-
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arpendu11&theme=highcontrast&hide_border=true" alt="arpendu11" />
 
-### Activity Trends
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arpendu11&theme=dracula&hide_border=true)
-
 ## Blog Post
 <!-- HASHNODE:START -->
 - [Demystifying Transactions and Exceptions with Spring](https://reflectoring.io/spring-transactions-and-exceptions/)
