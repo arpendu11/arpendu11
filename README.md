@@ -65,6 +65,7 @@ I am a Full Stack developer 🚀 from India. I have been part of various end-to-
 
 ## Blog Post
 <!-- HASHNODE:START -->
+- [Hands-on: Apache Kafka](https://stackabuse.com/courses/hands-on-apache-kafka/)
 - [Demystifying Transactions and Exceptions with Spring](https://reflectoring.io/spring-transactions-and-exceptions/)
 - [Building a CSV Importer with Node.js](https://reflectoring.io/node-csv-importer/)
 - [Automated Tests with Feature Flags and Cypress](https://reflectoring.io/nodejs-feature-flag-launchdarkly-react-cypress/)
